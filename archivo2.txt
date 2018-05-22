@@ -1,0 +1,2 @@
+Este es un archivo dos, creado en un branch auxiliar.
+Modifico archivo
